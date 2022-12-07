@@ -1,0 +1,39 @@
+// @charset "UTF-8";
+
+// // reset
+// @import "core/_reset";
+
+// // core
+// @import "core/_variable";
+// @import "core/_common_sp";
+
+// // layout sp
+// @import "layout/content/layout_sp";
+// @import "layout/header/header_sp";
+// @import "layout/footer/footer_sp";
+// // page sp
+// @import "project/top/top_sp";
+// @import "project/company/company_sp";
+// @import "project/contact/contact_sp";
+// @import "project/contact/contact-end_sp";
+// @import "project/news/news_sp";
+// @import "project/news/news-content_sp";
+// @import "project/business/business-content_sp";
+// @import "project/business/business-healthy-care_sp";
+
+// @media screen and (min-width: $breakpoint) {
+//   @import "core/_common_pc";
+//   // layout pc
+//   @import "layout/content/layout_pc";
+//   @import "layout/header/header_pc";
+//   @import "layout/footer/footer_pc";
+//   // page pc
+//   @import "project/top/top_pc";
+//   @import "project/company/company_pc";
+//   @import "project/contact/contact_pc";
+//   @import "project/contact/contact-end_pc";
+//   @import "project/news/news_pc";
+//   @import "project/news/news-content_pc";
+//   @import "project/business/business-content_pc";
+//   @import "project/business/business-healthy-care_pc";
+// }
